@@ -18,8 +18,6 @@ env/
 # Environment variables
 .env
 
-# Output files
-output/
 
 # OS files
 .DS_Store
